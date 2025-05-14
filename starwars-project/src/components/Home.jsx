@@ -48,7 +48,7 @@ const HomePage = () => {
       {/* Texto animado de Star Wars */}
       {showText && (
         <div
-          className="absolute inset-0 flex items-center justify-center z-50 text-yellow-400 text-center font-bold animate-fade-in"
+          className="absolute inset-0 flex items-center justify-center z-50 text-blue-500 text-center font-bold animate-fade-in"
           style={{
             fontFamily: "Star Jedi, Arial, sans-serif", // Fuente Star Wars
             fontSize: "2rem",
